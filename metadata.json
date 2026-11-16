@@ -1,0 +1,6 @@
+{
+  "name": "Bảo tàng Số Làng cổ Đường Lâm",
+  "description": "Bảo tàng số và không gian trưng bày điện tử di sản kiến trúc, lịch sử và văn hóa Làng cổ Đường Lâm (Thị xã Sơn Tây, Hà Nội).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
